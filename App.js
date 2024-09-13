@@ -1,5 +1,6 @@
 import { StatusBar} from 'expo-status-bar';
 import { StyleSheet, Text, View,SafeAreaView, Image } from 'react-native';
+import{ planetas} from './planetas'
 
 export default function App() {
   return (
